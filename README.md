@@ -1,4 +1,6 @@
 ## Meu nome é Carlos Roberto, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas
+
+<h4> - Desenvolvendo atualmente conhecimento e habilidades em Javascript, HTML5, CSS3.  </h4>
 <div align="center">
   <a href="https://github.com/cjribeiro99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjribeiro99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,7 +22,20 @@
   <a href="https://www.instagram.com/junior_cj99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cjribeiro99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://wa.me/qr/U3ZBIHHP4NCTK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
+  
+ </div>
+  
+  ##
+  
+  <h2>Ferramentas já trabalhadas: </h2>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-VScode" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Carlos-PS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Carlos-netbeans" height="70" width="150" src="https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png" target="_blank"></a>
+  <img align="center" alt="Carlos-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Carlos-netbeans" height="70" width="150" src="https://pngset.com/images/postman-software-vehicle-transportation-aircraft-airship-transparent-png-2560940.png"></a>
+  
+  
   ![Snake animation](https://github.com/cjribeiro99/cjribeiro99/blob/output/github-contribution-grid-snake.svg)
  
 </div>
