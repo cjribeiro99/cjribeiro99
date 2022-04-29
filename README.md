@@ -1,6 +1,5 @@
-## - Carlos Roberto, 22 anos e estudante de Análise e Desenvolvimento de Sistemas
-
-<h4> - Desenvolvendo atualmente conhecimento e habilidades em Javascript, HTML5, CSS3.  </h4>
+<h3> Prazer, meu nome é Carlos Roberto. </h3> 
+<h4> Tenho 22 anos, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou desenvolvendo conhecimento e habilidades em Javascript, HTML5, CSS3.</h4>
 
   ##
 
