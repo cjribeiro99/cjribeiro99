@@ -1,5 +1,5 @@
 <h3> Prazer, meu nome é Carlos Roberto. </h3> 
-<h4> Tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou desenvolvendo conhecimento e habilidades em Javascript, HTML5, CSS3.</h4>
+<h4> Tenho 24 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou desenvolvendo conhecimento e habilidades em Javascript, HTML5, CSS3.</h4>
 
   ##
 
